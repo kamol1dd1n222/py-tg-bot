@@ -9,12 +9,12 @@ from telegram.types import Update
 from config import TOKEN
 ```
 
-`nt-telegram-bot` sizga hech qanday qo‘shimcha murakkabliksiz, tozalangan interfeys orqali Telegram bot yaratish imkonini beradi.
+`py-tg-bot` sizga hech qanday qo‘shimcha murakkabliksiz, tozalangan interfeys orqali Telegram bot yaratish imkonini beradi.
 
 ## ⚙️ O‘rnatish
 
 ```bash
-pip install nt-telegram-bot
+pip install py-tg-bot
 ```
 
 ## 🚀 Boshlang‘ich foydalanish
